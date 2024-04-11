@@ -25,6 +25,12 @@ alias nb='npm run build'
 alias nd='npm run develop'
 alias ns='npm start'
 
+# PNPM
+alias p='pnpm'
+alias pb='pnpm build'
+alias pd='pnpm dev'
+alias pi='pnpm install'
+
 # Yarn
 alias y='yarn'
 alias yb='yarn build'
